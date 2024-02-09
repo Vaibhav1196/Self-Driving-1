@@ -38,3 +38,6 @@ pip
 
 # Apple hidden file
 .DS_Store
+
+# VS code
+.vscode
