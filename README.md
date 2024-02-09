@@ -79,3 +79,6 @@ python driver.py
 
 * Now that the server is running open the simulator but in "AUTONOMOUS MODE" with any of the two maps selected. The below video shows selfdriving in action.
 
+
+https://github.com/Vaibhav1196/Self-Driving-1/assets/52819113/2f2ca5ac-db75-43c7-ba0e-a8c5cf8cc2ad
+
