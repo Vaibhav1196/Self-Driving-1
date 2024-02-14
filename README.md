@@ -4,7 +4,7 @@ This project endeavors to replicate NVIDIA's CNN architecture outlined in the pa
 
 The below image shows us the mechanism involved in training (on the left) and the corresponding CNN architecture that is being implemented (on the right). Kindly read the paper to have a better visual of the images and the architecture used.
 
-I will share the link to the article here, where I provide detailed explanations on how the code works and the underlying theory behind it.
+Using the corresponding article alongside this code implementation would be beneficial for understanding the project comprehensively. You can find the link to the article here : https://visionmatrix.io/sample-project-1
 
 ![Training](/assets/Training_Mechanism.png?raw=true)
 
